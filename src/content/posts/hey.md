@@ -1,0 +1,15 @@
+---
+title: hey
+slug: rgggr
+description: An intro to aliases with Astro.
+category:
+  - One
+tags:
+  - Tailwind
+  - Astro
+  - Jamstack
+pubDate: 2023-09-01
+cover: https://hkia-dl.storage.iran.liara.space/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE%40._V1_.jpg
+coverAlt: AstroVerse-Aliases
+author: VV
+---
